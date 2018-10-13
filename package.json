@@ -1,31 +1,21 @@
 {
-  "name": "evie",
-  "version": "0.2.12",
-  "description": "A design system & template to build modern applications that work everywhere",
+  "name": "Toucan",
+  "version": "0.1",
+  "description": "A money management app for people with anxiety",
   "main": "app.js",
   "scripts": {
     "test": "test"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/anges244/evie.git"
-  },
   "keywords": [
-    "design",
-    "template",
-    "theme",
-    "web",
-    "apps",
-    "css",
-    "sass",
-    "html5"
+    "finance",
+    "anxiety",
+    "carers",
+    "mental health",
+    "money",
+    "savings",
   ],
-  "author": "Aggelos Gesoulis <aggelos.gesoulis@gmail.com>",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/anges244/evie/issues"
-  },
-  "homepage": "https://github.com/anges244/evie#readme",
+  "author": "Bailey Kursar",
+  "license": "",
   "dependencies": {
     "ejs": "^2.5.7",
     "express": "^4.16.2",
