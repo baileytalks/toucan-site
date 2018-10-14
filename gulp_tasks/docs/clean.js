@@ -1,4 +1,4 @@
-// docs_clean => This cleans the documents folder which contains the last version of the evie documentation
+// docs_clean => This cleans the documents folder which contains the last version of the toucan documentation
 
 const gulp = require('gulp');
 const del = require('del');

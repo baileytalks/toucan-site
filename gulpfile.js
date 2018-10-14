@@ -64,7 +64,7 @@ gulp.task('browser-sync',
 );
 
 /*--- Main Gulp Tasks---*/
-gulp.task('default', 
+gulp.task('default',
 	gulp.series('clean',
 		gulp.parallel('scripts_dev_docs','scripts_dev_theme','style_dev_docs','style_dev_theme'),
 		'browser-sync'
